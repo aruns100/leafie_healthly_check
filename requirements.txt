@@ -7,7 +7,7 @@ pandas
 
 # Image Processing
 opencv-python-headless
-Pillow==10.3.0
+Pillow>=12.0.0
 
 # Utilities
 python-dotenv
