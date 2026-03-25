@@ -24,7 +24,7 @@ from utils.preprocess import ImagePreprocessor
 from utils.severity import SeverityGrader
 from utils.recommendations import RecommendationEngine
 from utils.gemini_ai import get_gemini_engine
-
+from model.train import PlantDiseaseModel
 from database.init_db import init_database, get_connection
 
 # Configure logging
